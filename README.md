@@ -15,11 +15,17 @@ romanos são apresentadas a seguir.
 Cada letra corresponde a um determinado valor:
 
 > I = 1
+
 > V = 5
+
 > X = 10
+
 > L = 50
+
 > C = 100
+
 > D = 500
+
 > M = 1000
 
 Agrupando as letras acima, podemos representar os números de acordo com um conjunto de regras:
